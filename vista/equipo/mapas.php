@@ -7,7 +7,7 @@
 
  <div class="center-block" id="map_canvas" style="width:1000px; height:600px; text-align: center;" ></div>
 
-<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyAu4e5weCjO2RFI14jkjhhBfREp97yxqeU"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key="></script> //Ohne key
 <script type="text/javascript">
 
 var map; //importante definirla fuera de la funcion initialize() para poderla usar desde otras funciones.
